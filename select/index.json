@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アビス",
+  "base_artist": "のんぴー",
+  "createdAt": "2025-12-02T08:10:15.236570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・アビス",
+      "artist": "Accept",
+      "has_synced": false,
+      "path": "select/01_ザ・アビス_Accept.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アビス",
+      "artist": "Sano ibuki",
+      "has_synced": true,
+      "path": "select/02_アビス_Sano_ibuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アビス",
+      "artist": "Ibuki Sano",
+      "has_synced": true,
+      "path": "select/03_アビス_Ibuki_Sano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アビス",
+      "artist": "Especia",
+      "has_synced": false,
+      "path": "select/04_アビス_Especia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アビス",
+      "artist": "のんぴー",
+      "has_synced": false,
+      "path": "select/pl_01_アビス_のんぴー.txt"
+    }
+  ]
+}
